@@ -24,6 +24,7 @@ física, presión atmosférica y electrónica aplicada.
 - Altura oficial: 116 m  
 
 🧰 Componentes utilizados
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4f4f1c76-32a2-4e71-a90b-94f1b2701fd5" />
 
 - ESP32 (Business Card Green Edition)
 - Sensor BME280 (I2C)
@@ -63,14 +64,5 @@ física, presión atmosférica y electrónica aplicada.
 ✍️ Autor
 
 Adrian Lara – Freelance en electrónica, diseño 3D y sistemas embebidos
-🔗 [Fixando](https://www.fixando.pt/es/profile/582786/adrianlara)
+🔗 Youtube: (https://www.youtube.com/@KamikazeSolucionesElectronicas)
 📞 +351 911 180 717
-
-
-
----
-
-```
-
-¿Quieres que incluya también un GIF animado del dispositivo en uso, o una tabla de versiones? Puedo ayudarte a generarlo o prepararlo para subir a GitHub.
-```
