@@ -60,7 +60,7 @@ física, presión atmosférica y electrónica aplicada.
 📦 Impresión 3D
 - El diseño incluye una tapa avellanada para tornillos M3.
 - Archivos disponibles en formato `.step` y `.stl`.
-
+https://github.com/KamikazeSoluciones/Altimetro_Barometrico_ESP32/issues/3#issue-3250156691 
 
 
 ✍️ Autor
