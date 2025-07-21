@@ -42,7 +42,9 @@ física, presión atmosférica y electrónica aplicada.
 5. Los datos se muestran en la pantalla Oled.
 
 🧮 Fórmula usada
+
 <img width="344" height="93" alt="Image" src="https://github.com/user-attachments/assets/73b9b039-01e9-4746-a967-88878a19e0ac" />
+
 
 🛠️ Para compilar
 
