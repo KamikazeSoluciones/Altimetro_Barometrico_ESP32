@@ -69,5 +69,5 @@ física, presión atmosférica y electrónica aplicada.
 ✍️ Autor
 
 Adrian Lara – Freelance en electrónica, diseño 3D y sistemas embebidos
-🔗 Youtube: (https://www.youtube.com/@KamikazeSolucionesElectronicas)
+🔗 Youtube: https://youtu.be/_3JePDyfMUw 
 📞 +351 911 180 717
